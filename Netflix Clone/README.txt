@@ -1,0 +1,1 @@
+Netflix Clone created using AstraDB, GraphQL, Gitpod and Javascript.
